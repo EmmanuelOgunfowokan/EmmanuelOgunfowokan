@@ -28,7 +28,7 @@ I'm a backend developer passionate about building meaningful solutions that make
 
 ## 📌 Featured Projects
 
-### 🚀 [Dite](https://dite.vercel.app/)
+### 📚 [Dite](https://dite.vercel.app/)
 > A modular coursework management system built with clean architecture.  
 > 🌟 Features: Role-based notifications, course-tagged discussion hub, task manager, and more.  
 > 💻 Tech: ASP.NET Core, Entity Framework Core, Next.js, TypeScript
@@ -38,13 +38,6 @@ I'm a backend developer passionate about building meaningful solutions that make
 ### 🍲 [RecipeDorm](https://recipe-dorm-frontend-0001.vercel.app/)
 > A recipe discovery and management app where users can search, view, bookmark, and share recipes.  
 > 💻 Tech: ASP.NET Core, Entity Framework Core
-
----
-
-## 📈 GitHub Stats
-
-![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-e-s-u-e-l&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J-e-s-u-e-l&layout=compact&theme=radical)
 
 ---
 
