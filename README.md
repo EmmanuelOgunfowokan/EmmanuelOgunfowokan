@@ -29,21 +29,6 @@ I'm a backend developer passionate about building meaningful solutions that make
 
 ---
 
-## 📌 Featured Projects
-
-### 📚 [Dite](https://dite.vercel.app/)
-> A modular coursework management system built with clean architecture.  
-> 🌟 Features: Role-based notifications, course-tagged discussion hub, task manager, and more.  
-> 💻 Tech: ASP.NET Core, Entity Framework Core, Next.js, TypeScript
-
----
-
-### 🍲 [RecipeDorm](https://recipe-dorm-frontend-0001.vercel.app/)
-> A recipe discovery and management app where users can search, view, bookmark, and share recipes.  
-> 💻 Tech: ASP.NET Core, Entity Framework Core
-
----
-
 ## 🔗 Let's Connect
   
 💼 LinkedIn: https://www.linkedin.com/in/emmanuel-ogunfowokan-05953524a
